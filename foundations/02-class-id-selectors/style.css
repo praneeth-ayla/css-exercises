@@ -1,4 +1,4 @@
-.num1,.num3,.num5{
+.num1{
     background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
     }
@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-.num3{
+.adjust-font-size{
     font-size: 24px;
 
 }
 #num4{
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 } 
